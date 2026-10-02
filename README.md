@@ -31,8 +31,8 @@ Analytical Hybrid Software Engineer specializing in **IT/OT convergence**, bridg
 
 ### 📊 GitHub Analytics
 <p align="left">
-  <img src="https://vercel.app" alt="Scarred-Zero's GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Scarred-Zero's Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Scarred-Zero&show_icons=true" alt="Scarred-Zero's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scarred-Zero&layout=compact" alt="Scarred-Zero's Top Languages" height="180" />
 </p>
 
 ---
