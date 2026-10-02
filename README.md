@@ -86,7 +86,6 @@ Analytical Hybrid Software Engineer specializing in **IT/OT convergence**, bridg
 ![Zapier](https://shields.io)
 *   **LLMs & Assistive AI:** Claude | Gemini | Codex | Copilot | Vercel AI
 *   **Methodology:** Prompt Engineering | AI Workflow Integration | Algorithmic Automation | Custom Scripting
-
 ---
 
 ### 📬 Connect with Me
